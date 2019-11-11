@@ -1,5 +1,5 @@
 # Sample ConstraintLayout Flow
 
 
-Flow:
-![flow][/img/flow.png]
+Flow
+![](img/flow.png)
